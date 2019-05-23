@@ -1,0 +1,55 @@
+[12-Apr-2019 15:21:46] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 15:21:49] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 15:21:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:02:47] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:11:10] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:11:10] PHP Parse error:  syntax error, unexpected T_STRING in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:16:24] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:16:24] PHP Parse error:  syntax error, unexpected T_STRING in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:16:33] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:24:10] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:24:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:24:21] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:24:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:24:35] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:24:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:24:59] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:24:59] PHP Parse error:  syntax error, unexpected T_ECHO in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:25:00] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:25:00] PHP Parse error:  syntax error, unexpected T_ECHO in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:25:14] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:25:14] PHP Parse error:  syntax error, unexpected T_ECHO in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 6
+[12-Apr-2019 16:29:39] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:29:39] PHP Parse error:  syntax error, unexpected T_ECHO in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 7
+[12-Apr-2019 16:29:49] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:29:49] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 8
+[12-Apr-2019 16:29:49] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 8
+[12-Apr-2019 16:30:50] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:31:02] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:31:04] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 16:32:18] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 22:35:28] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 22:35:28] PHP Notice:  Undefined variable: db in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:35:28] PHP Warning:  pg_query() expects parameter 1 to be resource, null given in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:39:42] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 22:39:42] PHP Notice:  Undefined variable: db in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:39:42] PHP Warning:  pg_query() expects parameter 1 to be resource, null given in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:43:14] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 22:43:14] PHP Notice:  Undefined variable: db in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:43:14] PHP Warning:  pg_query() expects parameter 1 to be resource, null given in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:43:24] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[12-Apr-2019 22:43:24] PHP Notice:  Undefined variable: db in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:43:24] PHP Warning:  pg_query() expects parameter 1 to be resource, null given in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 12
+[12-Apr-2019 22:54:05] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[15-Apr-2019 23:45:58] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Notice:  Undefined index: submit in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 17
+[15-Apr-2019 23:45:58] PHP Warning:  Missing argument 2 for returnPepsi(), called in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 21 and defined in /home/stu/egonzale/public_html/startbootstrap-sb-admin-2-gh-pages/orderform.php on line 22
