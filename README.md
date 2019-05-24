@@ -9,7 +9,7 @@ their job dututies. The two employee types are a delivery driver and a dispatche
   Dispatcher: Repsonsible for placing orders and creating routes for drivers. 
   
  The following ER diagram shows a finialized design for the the database schema:
- ![ER MODEL](https://github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
+ ![ER MODEL](https://raw.github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
  
  The following pdf is a book on the design process of the databse. 
  Chapter 1 - Design requirements, Design Process, Entity/Relationships descriptions, ER diagram
