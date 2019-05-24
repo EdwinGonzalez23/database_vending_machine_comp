@@ -32,9 +32,9 @@ for the company database.
   answered, an ER Diagram Schema can be created to show a high-level view of the companies database.<br>
   
   * Chapter 2 - Converting to Relational Model<br>
-  The ER Schema must be converted a Relational Model in order to implement a Relational Database. This chapter breaks down 
+  The ER Schema must be converted to a Relational Model in order to implement a Relational Database. This chapter breaks down 
   the process of mapping Entities/Relationships from chapter 1 and converting them to Relations(tables). Mapping considers 
-  1 to 1, M to N, and M to N relationships as well as Strong/Weak entities.<br>
+  1 to 1, M to N, and M to 1 relationships as well as Strong/Weak entities.<br>
   10 practical, non-trivial queries are also answered in the theoretical langaues: Relational Algebra, Relational Calculus, and Domain Tupble Calculus. 
   
   *  Chapter 3 - Implementation of the Relational Database. <br>
@@ -47,14 +47,6 @@ for the company database.
              
 * ER MODEL - An Entitiy Relationship diagram that models the schema of the database       
             
-
- 
-      
-      
-      
-
-
-
 # About Company #
   The fictional company orders products on behalf of clients who own vending machines. The shipping company 
 then drives out and stocks the machines. The design process for this database considers two types of employees and the work revolved around 
