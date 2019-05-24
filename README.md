@@ -1,15 +1,16 @@
 # database_vending_machine_comp
 First attempt at a database design for a shipping/ordering company. (Very barebones)
 
-#About Company 
+#About Company#
   The fictional company orders products on behalf on clients who own vending machines. The shipping company 
 then drives out and stocks the machines. The design process for this database considers two types of employees and the work revolved around 
 their job dututies. The two employee types are a delivery driver and a dispatcher.
   Driver: Responsible for picking up orders from a warehouse and deliverying them to vending machines.
   Dispatcher: Repsonsible for placing orders and creating routes for drivers. 
   
- The following ER diagram shows a finialized design for the the database schema:
- ![ER MODEL](https://raw.github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
+ The following ER diagram shows a finialized design for the the database schema.
+ 
+ ![ER MODEL](https://github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
  
  The following pdf is a book on the design process of the databse. 
  Chapter 1 - Design requirements, Design Process, Entity/Relationships descriptions, ER diagram
