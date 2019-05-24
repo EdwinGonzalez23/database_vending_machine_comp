@@ -44,6 +44,8 @@ for the company database.
   
   * Chapter 5 - Graphical User Interface/Web Application for three main user groups. 
              Client, Driver, Dispatcher
+             
+* ER MODEL - An Entitiy Relationship diagram that models the schema of the database       
             
 
  
