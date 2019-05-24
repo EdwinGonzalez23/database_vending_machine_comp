@@ -19,13 +19,8 @@ their job dututies. The two employee types are a delivery driver and a dispatche
  Chapter 4 - Triggers/Stored procedures/Views. Analysis of other database management systems.
  Chapter 5 - Graphical User Interface/Web Application for three main user groups. 
              Client, Driver, Dispatcher
- ![Database Technical Book](https://github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
-
-             
  
- 
- 
-
 The folder database-design contains a PDF technical/analytical/educational report on the design process 
-for this database.   
+for this database. 
+![Database Technical Book](https://github.com/EdwinGonzalez23/database_vending_machine_comp/blob/master/database-design/Database_VendingMachine_Company.pdf)
 
