@@ -1,3 +1,11 @@
+# Note
+The site is hosted on a school server and as a result some functions do not properly work. 
+An order can be placed but the receipt after purchase will not show correctly. 
+However, viewing previous orders or generating a monthly/yearly report will show the newest orders inserted. 
+
+This was a good learning experience and helped in understanding how a web application can be connected
+to a properly designed database. 
+
 # database_vending_machine_comp 
 First attempt at a database design for a shipping/ordering company.
 This repository consist of three folders: PSQL, database-design, startbootstrap-sb-admin-2-gh-pages
