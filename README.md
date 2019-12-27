@@ -6,6 +6,19 @@ However, viewing previous orders or generating a monthly/yearly report will show
 This was a good learning experience and helped in understanding how a web application can be connected
 to a properly designed database. 
 
+# About Company #
+  The fictional company orders products on behalf of clients who own vending machines. The shipping company 
+then drives out and stocks the machines. The design process for this database considers two types of employees and the work revolved around 
+their job dututies. The two employee types are a delivery driver and a dispatcher.
+  Driver: Responsible for picking up orders from a warehouse and deliverying them to vending machines.
+  Dispatcher: Repsonsible for placing orders and creating routes for drivers. 
+## ER MODEL ##   
+ The following ER diagram shows a finialized design for the the database schema.<br>
+ ![ER MODEL](https://github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
+## Techincal Handbook  
+The following pdf is a book on the design process of the databse.<br> 
+![Database Technical Book](https://github.com/EdwinGonzalez23/database_vending_machine_comp/blob/master/database-design/Database_VendingMachine_Company.pdf)
+
 # database_vending_machine_comp 
 First attempt at a database design for a shipping/ordering company.
 This repository consist of three folders: PSQL, database-design, startbootstrap-sb-admin-2-gh-pages
@@ -53,18 +66,4 @@ for the company database.
   * Chapter 5 - Graphical User Interface/Web Application for three main user groups. 
              Client, Driver, Dispatcher
              
-* ER MODEL - An Entitiy Relationship diagram that models the schema of the database       
-            
-# About Company #
-  The fictional company orders products on behalf of clients who own vending machines. The shipping company 
-then drives out and stocks the machines. The design process for this database considers two types of employees and the work revolved around 
-their job dututies. The two employee types are a delivery driver and a dispatcher.
-  Driver: Responsible for picking up orders from a warehouse and deliverying them to vending machines.
-  Dispatcher: Repsonsible for placing orders and creating routes for drivers. 
-## ER MODEL ##   
- The following ER diagram shows a finialized design for the the database schema.<br>
- ![ER MODEL](https://github.com/EdwinGonzalez23/database_vending_machine_comp/tree/master/database-design/Vending_Machine_Comp_ER.png)
-## Techincal Handbook  
-The following pdf is a book on the design process of the databse.<br> 
-![Database Technical Book](https://github.com/EdwinGonzalez23/database_vending_machine_comp/blob/master/database-design/Database_VendingMachine_Company.pdf)
-
+* ER MODEL - An Entitiy Relationship diagram that models the schema of the database                
