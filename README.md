@@ -1,5 +1,8 @@
 # Application
 Please see chapter 5 in the Technical Handbook for a detailed explination of the application.
+![Database Technical Book](https://github.com/EdwinGonzalez23/database_vending_machine_comp/blob/master/database-design/Database_VendingMachine_Company.pdf)
+
+Downloading book is recommended in order to use clickable table of contents. 
 
 # Note
 The site is hosted on a school server and as a result some functions do not properly work. 
