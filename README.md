@@ -1,3 +1,6 @@
+# Application
+Please see chapter 5 in the Technical Handbook for a detailed explination of the application.
+
 # Note
 The site is hosted on a school server and as a result some functions do not properly work. 
 An order can be placed but the receipt after purchase will not show correctly. 
