@@ -1,2 +1,1 @@
-*.css linguist-language=Sql
-*.php linguist-language=Sql
+*.css linguist-language=PHP
