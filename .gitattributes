@@ -1,1 +1,2 @@
-*.css linguist-language=PHP
+*.sql linguist-detectable=true
+*.css linguist-language=Sql
